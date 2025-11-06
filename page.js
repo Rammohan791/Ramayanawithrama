@@ -37,3 +37,11 @@ window.location.href="lankakand.html";}
 let g=document.getElementById("uttarakand");
 function uttarakand(){
 window.location.href="uttarakand.html";}
+
+let a=document.getElementById("whatramayna");
+function hindi1(){
+window.location.href="whatramayana.html";}
+
+let b=document.getElementById("aboutramayana");
+function learnabout(){
+window.location.href="aboutramayana.html";}
