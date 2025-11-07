@@ -4,10 +4,11 @@
 }
 .fullpage{
 	width:100%;
-	height:100%;
+	height:100%px;
 display:flex;
 margin:auto;
-background-color:#2b5d8c;}
+background-color:#2b5d8c;
+background-image: url('	https://resize.indiatvnews.com/en/resize/newbucket/1200_-/2024/01/srimad-ramayan-1704431313.jpg');}
 .buttonbox{
 	min-width:180px;
 	width:100%;
@@ -15,8 +16,11 @@ background-color:#2b5d8c;}
     display:flext;
     margin:auto;
 	alignment:center;
-	background-color:red;
+background-image: url('https://i.pinimg.com/736x/2b/8d/ab/2b8dabe1b95c468c4e163a1e85c15391.jpg');
+
 }
+
+
 
 .button{
 	width:500px;
@@ -57,14 +61,21 @@ margin:auto;
 background-color:red;}
 
 .quizesbox{
-	width:300px;
-	height:400px;
+	width:800px;
+	height:600px;
+	font-weight:35px;
+	font-size:30px;
 border-left:2px solid red;
 border-right:2px solid #15ed27;
 border-top:2px solid #ed1548;
 border-bottom:2px solid yellow;
+	box-shadow:20px 20px 10px 5px white;
+	box-shadow:inset 0px 4px 20px 5px blue;
+background-image: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6HRdIAVOlIsMyyje0MAxeeNP-VpgJGLEG5A&s');
+background-size:cover;
+color:white;
 margin:auto;
-background-color:blue;}
+background-color:white;}
 .heading{
 	width:300px;
 	height:50px;
@@ -73,9 +84,16 @@ background-color:blue;}
 height:50px;
 border:2px solid black;}
 .nextbtn{
-	display:flex;
-	margin-left:center;
 	width:300px;
-
-    height:30px;}
-
+	height:60px;
+	border:1px double red;
+	background-color:#2431bf;
+	border-radius:8px;
+	box-shadow:20px 20px 10px 5px purple;
+	box-shadow:inset 0px 4px 10px 5px white;
+    margin:auto;
+    display:flex;	
+	font-size:20px;
+	font-weight:bold;
+	color:#24bf46;
+	cursor:pointer;}

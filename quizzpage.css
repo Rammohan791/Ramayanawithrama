@@ -1,11 +1,15 @@
 .main{
-	margin:0px;
-	padding:0px;
-	width:1320px;
+	margin:40px;
+	padding:20px;
+	max-width:1320px;
+	max-width:720px;
 	height:600px;
     display:flex;
     margin:center;
-    background-color:#849701;}
+    background-color:#849701;
+	background-image:url('https://cdn11.bigcommerce.com/s-x49po/images/stencil/1500x1500/products/59598/277381/1613540696201_Ek_sloki_Ramayan__52002.1687410275.jpg?c=2&imbypass=on');
+	background-size:cover;
+	background-repeat:no-repeat;}
 	
 .buttonbox{
 	width:300px;
