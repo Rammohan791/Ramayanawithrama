@@ -4,7 +4,7 @@
 }
 .fullpage{
 	width:100%;
-	height:100%px;
+	height:100%;
 display:flex;
 margin:auto;
 background-color:#2b5d8c;
@@ -96,4 +96,5 @@ border:2px solid black;}
 	font-size:20px;
 	font-weight:bold;
 	color:#24bf46;
+
 	cursor:pointer;}
