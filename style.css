@@ -4,7 +4,7 @@
 }
 .fullpage{
 	width:100%;
-	height:1000px;
+	height:100%px;
 display:flex;
 margin:auto;
 background-color:#2b5d8c;}
@@ -76,4 +76,5 @@ border:2px solid black;}
 	display:flex;
 	margin-left:center;
 	width:300px;
+
     height:30px;}
