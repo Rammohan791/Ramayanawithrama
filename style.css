@@ -2,30 +2,39 @@
 	padding:0px;
 	margin:0px;
 }
+.fullpage{
+	margin:0px;
+	padding:0px;
+	max-width:1320px;
+	min-width:730px;
+	height:600px;
+    display:flex;
+    margin:center;
+    background-color:#849701;
+	background-image:url('https://cdn11.bigcommerce.com/s-x49po/images/stencil/1500x1500/products/59598/277381/1613540696201_Ek_sloki_Ramayan__52002.1687410275.jpg?c=2&imbypass=on');
+	background-size:cover;
+	background-repeat:no-repeat;}
 .buttonbox{
-	min-width:180px;
-	width:100%;
-    height:1000px;
+	min-width:780px;
+    height:600px;
     display:flext;
-    margin:auto;
 	alignment:center;
 background-image: url('https://i.pinimg.com/736x/2b/8d/ab/2b8dabe1b95c468c4e163a1e85c15391.jpg');
 
 }
 .button{
-	width:100%;
-	height:200px;
-	border:1px double purple;
+	width:500px;
+	height:50px;
+	border:4px double #0bfc03;
 	background-color:rgba(1, 153, 180);
-	border-radius:8px;
-	box-shadow:0px 4px 10px 5px purple;
-	box-shadow:inset 0px 4px 10px 5px white;
-	margin-bottom:50px;
-	margin-left:300px;
-	margin-right:300px;
-	margin-top:50px;	
+	border-radius:12px;
+	box-shadow:5px 4px 10px 5px purple;
+	box-shadow:inset 0px 4px 10px 5px white;	
 	font-size:20px;
 	font-weight:bold;
+	margin-top:20px;
+    margin-left:300px;
+    margin-bottom:30px;
 	cursor:pointer;
 }
 
@@ -33,10 +42,10 @@ background-image: url('https://i.pinimg.com/736x/2b/8d/ab/2b8dabe1b95c468c4e163a
 	max-width:1320px;
 min-width:200px;
 height:500px;
-border-left:2px solid red;
-border-right:2px solid #15ed27;
-border-top:2px solid #ed1548;
-border-bottom:2px solid red;
+border-left:7px solid red;
+border-right:7px solid #15ed27;
+border-top:7px solid #ed1548;
+border-bottom:7px solid red;
 display:flex;
 background-color:red;}
 	
@@ -47,17 +56,20 @@ border-top:2px solid #ed1548;
 border-bottom:2px solid yellow;
 display:flex;
 margin:auto;
-background-color:red;}
+background-color:red;
+background-image:url('https://www.kidsgen.com/quiz/images/the-ramayana-quiz.jpg');
+background-size:cover;
+}
 
 .quizesbox{
-	width:100%;
-	height:700px;
+	width:800px;
+	height:600px;
 	font-weight:35px;
-	font-size:60px;
-border-left:2px solid red;
-border-right:2px solid #15ed27;
-border-top:2px solid #ed1548;
-border-bottom:2px solid yellow;
+	font-size:30px;
+border-left:7px solid red;
+border-right:7px solid #15ed27;
+border-top:8px solid #ed1548;
+border-bottom:8px solid yellow;
 	box-shadow:20px 20px 10px 5px white;
 	box-shadow:inset 0px 4px 20px 5px blue;
 background-image: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6HRdIAVOlIsMyyje0MAxeeNP-VpgJGLEG5A&s');
@@ -85,8 +97,4 @@ border:2px solid black;}
 	font-size:20px;
 	font-weight:bold;
 	color:#24bf46;
-
 	cursor:pointer;}
-
-
-
