@@ -77,3 +77,6 @@ let w=document.getElementById("b8");
 function w1(){
 window.location.href="returntoayodhya.html";}
 
+let cult=document.getElementById("culturepage");
+function cutlurepage(){
+window.location.href="indianculture.html";}

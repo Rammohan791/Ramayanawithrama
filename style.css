@@ -7,7 +7,7 @@
 	padding:0px;
 	max-width:1320px;
 	min-width:730px;
-	height:600px;
+	height:1900px;
     display:flex;
     margin:center;
     background-color:#849701;
@@ -16,25 +16,25 @@
 	background-repeat:no-repeat;}
 .buttonbox{
 	min-width:780px;
-    height:600px;
+    height:1600px;
     display:flext;
 	alignment:center;
 background-image: url('https://i.pinimg.com/736x/2b/8d/ab/2b8dabe1b95c468c4e163a1e85c15391.jpg');
 
 }
 .button{
-	width:500px;
-	height:50px;
-	border:4px double #0bfc03;
+	width:600px;
+	height:100px;
+	border:7px double #0bfc03;
 	background-color:rgba(1, 153, 180);
 	border-radius:12px;
 	box-shadow:5px 4px 10px 5px purple;
 	box-shadow:inset 0px 4px 10px 5px white;	
-	font-size:20px;
+	font-size:34px;
 	font-weight:bold;
 	margin-top:20px;
     margin-left:300px;
-    margin-bottom:30px;
+    margin-bottom:50px;
 	cursor:pointer;
 }
 
