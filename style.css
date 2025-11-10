@@ -13,14 +13,14 @@ background-image: url('https://i.pinimg.com/736x/2b/8d/ab/2b8dabe1b95c468c4e163a
 
 }
 .button{
-	width:500px;
-	height:80px;
+	width:100%;
+	height:200px;
 	border:1px double purple;
 	background-color:rgba(1, 153, 180);
 	border-radius:8px;
 	box-shadow:0px 4px 10px 5px purple;
 	box-shadow:inset 0px 4px 10px 5px white;
-	margin-bottom:40px;
+	margin-bottom:50px;
 	margin-left:300px;
 	margin-right:300px;
 	margin-top:50px;	
@@ -87,5 +87,6 @@ border:2px solid black;}
 	color:#24bf46;
 
 	cursor:pointer;}
+
 
 
