@@ -1,42 +1,111 @@
-.main{
-	padding:0px;
-	margin:0px;
-}
-.fullpage{
-	margin:0px;
-	padding:0px;
-	max-width:1320px;
-	min-width:730px;
-	height:1900px;
-    display:flex;
-    margin:center;
-    background-color:#849701;
-	background-image:url('https://cdn11.bigcommerce.com/s-x49po/images/stencil/1500x1500/products/59598/277381/1613540696201_Ek_sloki_Ramayan__52002.1687410275.jpg?c=2&imbypass=on');
-	background-size:cover;
-	background-repeat:no-repeat;}
 .buttonbox{
-	min-width:780px;
-    height:1600px;
-    display:flext;
+	width:100%;
+	display:flex;
+	flex-wrap:wrap;
 	alignment:center;
-background-image: url('https://i.pinimg.com/736x/2b/8d/ab/2b8dabe1b95c468c4e163a1e85c15391.jpg');
+	background-color:#90EE90;
+	box-shadow:inset 0px 0px 30px 28px black;
+		animation-name:disp;
+		animation-duration:5s;
+		position:relative;
+		animation-iteration-count:infinite;
 
 }
+@keyframes disp{
+	from{background-color:#90EE90;}
+	to{background-color:pink;}
+}
+
+.paragraph{
+		animation-name:para;
+		animation-duration:4s;
+		position:relative;
+		animation-iteration-count:infinite;
+		color:purple;
+		font-size:20px;
+
+}
+@keyframes para{
+	from{color:black;}
+	to{color:purple;}
+}
+
+
+
+.disclaimerbox{
+	margin:0px;
+	padding:0px;
+    width:100%;
+	height:500px;
+	display:flex;
+	background-color:black;
+}
+  
+  
+.disclaimerbox1{
+	margin:0px;
+	padding:0px;
+	max-width:400px;
+	min-width:250px;
+	height:500px;
+	margin:auto;
+	alignment:center;
+	background-color: #dcdc3d;
+	box-shadow: 3px 10px 12px 4px pink;
+}
+.disclaimerbox2{
+	margin:0px;
+	padding:0px;
+	max-width:400px;
+	min-width:200px;
+	height:500px;
+	margin:auto;
+    box-shadow: 2px 10px 20px 4px blue;
+	background-color:#86dcc5;
+}
 .button{
-	width:600px;
-	height:100px;
+	width:430px;
+	height:150px;
 	border:7px double #0bfc03;
-	background-color:rgba(1, 153, 180);
-	border-radius:12px;
-	box-shadow:5px 4px 10px 5px purple;
-	box-shadow:inset 0px 4px 10px 5px white;	
+	background-color:#FF9933;
+	border-radius:17px;
+	box-shadow:inset 0px 4px 10px 5px  #ADD8E6;
+	transform:rotateX(30deg) rotateY(30);
+	text-shadow:0px 0px 0px white,
+	            1px 1px 0px white,
+				2px 2px 0px white,
+				3px 3px 0px black;	
 	font-size:34px;
 	font-weight:bold;
 	margin-top:20px;
-    margin-left:300px;
+    margin-left:200px;
     margin-bottom:50px;
 	cursor:pointer;
 }
+.button:hover{
+	width:430px;
+	height:150px;
+	border:7px double #0bfc03;
+	background-color:#ADD8E6;
+	border-radius:15px;
+	box-shadow:5px 4px 10px 5px red;
+	
+	font-size:34px;
+	font-weight:bold;
+	margin-top:20px;
+    margin-left:200px;
+    margin-bottom:50px;
+	cursor:pointer;
+	
+	animation-name:btn;
+	animation-duration:2s;
+	position:relative;
+	animation-iteration-count:infinite;
+}
+@keyframes btn{
+	from{background-color:#ADD8E6;}
+	to{background-color:#FF9933;}
+	}
 
 .quizzbtn{
 	max-width:1320px;
@@ -76,7 +145,7 @@ background-image: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6H
 background-size:cover;
 color:white;
 margin:auto;
-background-color:white;}
+background-color:green;}
 .heading{
 	width:300px;
 	height:50px;
