@@ -26,7 +26,7 @@ animation-iteration-count:infinite;
   @keyframes im{
 	  0%{width:50%;background-image:url("https://github.com/Rammohan791/Ramayanawithrama/blob/8eac458368159508909b159407cab17e03564ae2/changeim1.jpg");}
 	  20%{width:100%; background-image:url("https://github.com/Rammohan791/Ramayanawithrama/blob/799a2587187e47e038664364e17af047b1471843/changeim2.jpg");}
-	  30%{width:60%;background-image:url("byHTML,CSS,js\\changeim3.jpg");}
+	  30%{width:60%;background-image:url("https://github.com/Rammohan791/Ramayanawithrama/blob/71ef6f4c637faefc80e53f040540e9fd6cb82092/changeim3.jpg");}
 	  40%{width:100%;background-image:url("changeim2.jpg");}
 	  50%{width:70%;background-image:url("C:\\Users\\rammo\\OneDrive\\HTML\\project byHTML,CSS,js\\changeim4.jpg");}
 	  62%{width:100%; background-image:url("C:\\Users byHTML,CSS,js\\changeim5.jpg");}
@@ -287,6 +287,7 @@ border:2px solid black;}
 	color:#24bf46;
 
 	cursor:pointer;}
+
 
 
 
