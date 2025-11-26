@@ -161,7 +161,8 @@ animation-iteration-count:infinite;
 	font-size:25px;
 	font-weight:bold;
 margin:auto;
-margin-bottom:20px;
+margin-bottom:25px;
+	margin-left:30px;
 	cursor:pointer;
 }
 #button1{
@@ -213,7 +214,8 @@ background-repeat:no-repeat;}
 	font-size:25px;
 	font-weight:bold;
 	margin:auto;
-    margin-bottom:20px;
+    margin-bottom:25px;
+	margin-left:30px;
 	cursor:pointer;
 	
 	animation-name:btn;
@@ -287,6 +289,7 @@ border:2px solid black;}
 	color:#24bf46;
 
 	cursor:pointer;}
+
 
 
 
