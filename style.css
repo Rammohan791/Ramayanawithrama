@@ -24,12 +24,12 @@ animation-duration:80s;
 animation-iteration-count:infinite;
   }
   @keyframes im{
-	  0%{width:50%;background-image:url("https://github.com/Rammohan791/Ramayanawithrama/blob/main/changeim1.jpg?raw=true");}
-	  20%{width:100%; background-image:url("C:\\Users\\rammo\\OneDrive\\HTML\\project byHTML,CSS,js\\changeim1.jpg");}
-	  30%{width:60%;background-image:url("C:\\Users\\rammo\\OneDrive\\HTML\\project byHTML,CSS,js\\changeim2.jpg");}
+	  0%{width:50%;background-image:url(""byHTML,CSS,js\\changeim2.jpg"");}
+	  20%{width:100%; background-image:url("byHTML,CSS,js\\changeim1.jpg");}
+	  30%{width:60%;background-image:url("byHTML,CSS,js\\changeim3.jpg");}
 	  40%{width:100%;background-image:url("C:\\Users\\rammo\\OneDrive\\HTML\\project byHTML,CSS,js\\changeim3.jpg");}
 	  50%{width:70%;background-image:url("C:\\Users\\rammo\\OneDrive\\HTML\\project byHTML,CSS,js\\changeim4.jpg");}
-	  62%{width:100%; background-image:url("C:\\Users\\rammo\\OneDrive\\HTML\\project byHTML,CSS,js\\changeim5.jpg");}
+	  62%{width:100%; background-image:url("C:\\Users byHTML,CSS,js\\changeim5.jpg");}
 	  70%{width:80%;background-image:url("C:\\Users\\rammo\\OneDrive\\HTML\\project byHTML,CSS,js\\changeim6.jpg");}
 	  80%{width:100%;background-image:url("C:\\Users\\rammo\\OneDrive\\HTML\\project byHTML,CSS,js\\changeim7.jpg");}
 	  90%{width:90%;background-image:url("C:\\Users\\rammo\\OneDrive\\HTML\\project byHTML,CSS,js\\changeim8.jpg");}
@@ -287,4 +287,5 @@ border:2px solid black;}
 	color:#24bf46;
 
 	cursor:pointer;}
+
 
