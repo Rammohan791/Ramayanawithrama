@@ -24,7 +24,7 @@ animation-duration:80s;
 animation-iteration-count:infinite;
   }
   @keyframes im{
-	  0%{width:50%;background-image:url("C:\\Users\\rammo\\OneDrive\\HTML\\project byHTML,CSS,js\\kand.jpg");}
+	  0%{width:50%;background-image:url("https://github.com/Rammohan791/Ramayanawithrama/blob/main/changeim1.jpg?raw=true");}
 	  20%{width:100%; background-image:url("C:\\Users\\rammo\\OneDrive\\HTML\\project byHTML,CSS,js\\changeim1.jpg");}
 	  30%{width:60%;background-image:url("C:\\Users\\rammo\\OneDrive\\HTML\\project byHTML,CSS,js\\changeim2.jpg");}
 	  40%{width:100%;background-image:url("C:\\Users\\rammo\\OneDrive\\HTML\\project byHTML,CSS,js\\changeim3.jpg");}
@@ -285,4 +285,5 @@ border:2px solid black;}
 	font-size:20px;
 	font-weight:bold;
 	color:#24bf46;
+
 	cursor:pointer;}
